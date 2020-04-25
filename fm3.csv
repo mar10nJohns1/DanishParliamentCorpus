@@ -1,0 +1,516 @@
+,Parti,Spørger,Dato
+0,ALT,Anders Stjernholm ,7
+1,ALT,Carolina Magdalene Maier ,24
+2,ALT,Christian Juhl ,1
+3,ALT,Christian Poll ,65
+4,ALT,Erik Christensen ,2
+5,ALT,Josephine Fock ,26
+6,ALT,Julius Graakjær Grantzau ,1
+7,ALT,Mira Issa Bloch ,4
+8,ALT,Pernille Schnoor ,75
+9,ALT,Rasmus Nordqvist ,63
+10,ALT,Rasmus Prehn ,1
+11,ALT,René Gade ,17
+12,ALT,Sikandar Siddique ,1
+13,ALT,Susanne Zimmer ,2
+14,ALT,Torsten Gejl ,2
+15,ALT,Uffe Elbæk ,47
+16,DF,Aase D. Madsen ,9
+17,DF,Alex Ahrendtsen ,125
+18,DF,Anita Christensen ,4
+19,DF,Anita Knakkergaard ,91
+20,DF,Bent Bøgsted ,86
+21,DF,Birthe Skaarup ,327
+22,DF,Carsten Kudsk ,24
+23,DF,Christian Langballe ,111
+24,DF,Claus Kvist Hansen ,39
+25,DF,Colette L. Brix ,123
+26,DF,Dennis Flydtkjær ,339
+27,DF,Dorthe Ullemose ,15
+28,DF,Hans Kristian Skibby ,365
+29,DF,Henrik Brodersen ,36
+30,DF,Ib Poulsen ,37
+31,DF,Jacob Jensen ,1
+32,DF,Jan Erik Messmann ,23
+33,DF,Jan Rytkjær Callesen ,3
+34,DF,Jens Henrik Thulesen Dahl ,93
+35,DF,Jeppe Jakobsen ,24
+36,DF,Jesper Langballe ,36
+37,DF,Jørn Dohrmann ,185
+38,DF,Karin Nødgaard ,255
+39,DF,Karina Adsbøl ,197
+40,DF,Karina Due ,18
+41,DF,Karsten Lauritzen ,4
+42,DF,Kenneth Kristensen Berth ,178
+43,DF,Kim Christiansen ,256
+44,DF,Kristian Thulesen Dahl ,133
+45,DF,Liselott Blixt ,908
+46,DF,Marie Krarup ,52
+47,DF,Marlene Harpsøe ,139
+48,DF,Martin Henriksen ,753
+49,DF,Merete Dea Larsen ,26
+50,DF,Mette Frederiksen ,1
+51,DF,Mette Hjermind Dencker ,92
+52,DF,Mia Falkenberg ,50
+53,DF,Mikkel Dencker ,86
+54,DF,Morten Marinus ,99
+55,DF,Morten Messerschmidt ,974
+56,DF,Per Dalgaard ,22
+57,DF,Per Nørhave ,3
+58,DF,Pernille Bendixen ,108
+59,DF,Peter Kofod ,125
+60,DF,Peter Skaarup ,923
+61,DF,Pia Adelsteen ,63
+62,DF,Pia Kjærsgaard ,64
+63,DF,Pia Kristensen ,89
+64,DF,Poul Fischer ,1
+65,DF,Poul Nødgaard ,15
+66,DF,René Christensen ,52
+67,DF,Susanne Eilersen ,26
+68,DF,Søren Espersen ,433
+69,DF,Søren Krarup ,37
+70,DF,Tilde Bork ,10
+71,DF,Tina Petersen ,165
+72,DF,Torsten Schack Pedersen ,1
+73,DF,Uno Larsson ,3
+74,DF,Walter Christophersen ,65
+75,EL,Bruno Jerup ,11
+76,EL,Christian Juhl ,114
+77,EL,Eva Flyvholm ,17
+78,EL,Finn Sørensen ,252
+79,EL,Frank Aaen ,1111
+80,EL,Henning Hyllested ,143
+81,EL,Jakob Sølvhøj ,7
+82,EL,Jens Borking ,1
+83,EL,Jesper Kiel ,8
+84,EL,Johanne Schmidt-Nielsen ,294
+85,EL,Jørgen Arbo-Bæhr ,827
+86,EL,Kaare Dybvad ,2
+87,EL,Keld Albrechtsen ,189
+88,EL,Lars Barfoed ,2
+89,EL,Lars Dohn ,33
+90,EL,Lea Wermelin ,2
+91,EL,Line Barfod ,827
+92,EL,Mai Villadsen ,12
+93,EL,Majbrit Berlau ,36
+94,EL,Maria Reumert Gjerding ,26
+95,EL,Nikolaj Villumsen ,123
+96,EL,Peder Hvelplund ,18
+97,EL,Pelle Dragsted ,11
+98,EL,Per Clausen ,5342
+99,EL,Pernille Skipper ,185
+100,EL,Pernille Søndergaard ,2
+101,EL,Pia Boisen ,11
+102,EL,Rasmus Vestergaard Madsen ,10
+103,EL,Rosa Lund ,174
+104,EL,Rune Lund ,936
+105,EL,Sarah Glerup ,2
+106,EL,Signe Færch ,8
+107,EL,Stine Brix ,121
+108,EL,Søren Egge Rasmussen ,136
+109,EL,Søren Søndergaard ,107
+110,EL,Victoria Velasquez ,2
+111,EL,Øjvind Vilsholm ,2
+112,FF,Anfinn Kallsberg ,1
+113,IA,Aaja Chemnitz Larsen ,13
+114,IA,Johan Lund Olsen ,4
+115,IA,Juliane Henningsen ,4
+116,IA,Kuupik Kleist ,9
+117,IA,Sara Olsvig ,14
+118,IA,Sofia Rossen ,5
+119,JF,Aksel V. Johannesen ,1
+120,JF,Bjarni Hammer ,1
+121,JF,Henrik Old ,2
+122,JF,Sjúrður Skaale ,111
+123,KD,Bodil Kornbek ,9
+124,KD,Jann Sjursen ,13
+125,KD,Mogens Nørgård ,11
+126,KD,Per Ørum Jørgensen ,28
+127,KD,Tove Videbæk ,38
+128,KF,Anders Johansson ,11
+129,KF,Benedikte Kiær ,89
+130,KF,Birgitte Bergman ,2
+131,KF,Brian Mikkelsen ,137
+132,KF,Brigitte Klintskov Jerkel ,7
+133,KF,Carina Christensen ,7
+134,KF,Charlotte Dyremose ,11
+135,KF,Christian Langballe ,1
+136,KF,Christian Wedell-Neergaard ,5
+137,KF,Daniel Rugholm ,3
+138,KF,Else Theill Sørensen ,1
+139,KF,Helge Adam Møller ,1
+140,KF,Jakob Axel Nielsen ,13
+141,KF,Jørgen S. Lundsgaard ,2
+142,KF,Karsten Lauritzen ,1
+143,KF,Lars Barfoed ,33
+144,KF,Lene Espersen ,22
+145,KF,Mai Mercado ,47
+146,KF,Mette Abildgaard ,21
+147,KF,Mike Legarth ,47
+148,KF,Naser Khader ,133
+149,KF,Per Larsen ,9
+150,KF,Per Stig Møller ,2
+151,KF,Rasmus Jarlov ,8
+152,KF,Søren Pape Poulsen ,15
+153,KF,Tom Behnke ,42
+154,KF,Vivi Kier ,1
+155,LA,Anders Samuelsen ,80
+156,LA,Christina Egelund ,9
+157,LA,Danny K. Malkowski ,1
+158,LA,Henrik Dahl ,2
+159,LA,Joachim B. Olsen ,30
+160,LA,Laura Lindahl ,3
+161,LA,Leif Mikkelsen ,17
+162,LA,May-Britt Kattrup ,5
+163,LA,Merete Riisager ,20
+164,LA,Mette Bock ,57
+165,LA,Ole Birk Olesen ,44
+166,LA,Thyra Frank ,2
+167,LA,Villum Christensen ,32
+168,NB,Lars Boje Mathiesen ,10
+169,NB,Pernille Vermund ,3
+170,NB,Peter Seier Christensen ,3
+171,NQ,Aleqa Hammond ,10
+172,NY,Inge-Lene Ebdrup ,2
+173,RV,Abbas Razvi ,1
+174,RV,Andreas Steenberg ,9
+175,RV,Anne Marie Geisler Andersen ,3
+176,RV,Bente Dahl ,177
+177,RV,Charlotte Fischer ,175
+178,RV,Elisabeth Arnold ,6
+179,RV,Elisabeth Geday ,69
+180,RV,Elsebeth Gerner Nielsen ,182
+181,RV,Ida Auken ,98
+182,RV,Ida Jørgensen ,12
+183,RV,Jens Rohde ,26
+184,RV,Johs. Poulsen ,123
+185,RV,Jørgen Poulsen ,3
+186,RV,Katrine Robsøe ,1
+187,RV,Kristian Hegaard ,5
+188,RV,Liv Holm Andersen ,1
+189,RV,Lone Dybkjær ,64
+190,RV,Lotte Rod ,3
+191,RV,Manu Sareen ,5
+192,RV,Margrethe Vestager ,192
+193,RV,Marianne Jelved ,11
+194,RV,Marlene Borst Hansen ,1
+195,RV,Martin Lidegaard ,37
+196,RV,Morten Helveg Petersen ,130
+197,RV,Morten Østergaard ,195
+198,RV,Niels Helveg Petersen ,10
+199,RV,Nils Sjøberg ,15
+200,RV,Ole Glahn ,13
+201,RV,Poul Erik Christensen ,158
+202,RV,Rasmus Helveg Petersen ,2
+203,RV,Rasmus Prehn ,2
+204,RV,Sofie Carsten Nielsen ,8
+205,RV,Zenia Stampe ,4
+206,S,Ane Halsboe-Jørgensen ,6
+207,S,Anne Paulin ,5
+208,S,Anne-Marie Meldgaard ,45
+209,S,Annette Lind ,56
+210,S,Arne Toft ,96
+211,S,Astrid Krag ,145
+212,S,Benny Engelbrecht ,414
+213,S,Bjarne Laustsen ,794
+214,S,Bjørn Medom Nielsen ,50
+215,S,Carsten Bo Jensen ,3
+216,S,Carsten Hansen ,88
+217,S,Christian Rabjerg Madsen ,116
+218,S,Christine Antorini ,204
+219,S,Dan Jørgensen ,9
+220,S,Daniel Toft Jakobsen ,16
+221,S,Dorrit Knudsen ,14
+222,S,Erik Christensen ,41
+223,S,Flemming Møller Mortensen ,281
+224,S,Frank Jensen ,5
+225,S,Frode Sørensen ,68
+226,S,Grethe H. Nielsen ,1
+227,S,Helge Mortensen ,2
+228,S,Helle Dam ,4
+229,S,Helle Thorning-Schmidt ,6
+230,S,Henning Gjellerod ,1
+231,S,Henrik Dam Kristensen ,57
+232,S,Henrik Sass Larsen ,47
+233,S,Hüseyin Arac ,16
+234,S,Inger Bierbaum ,2
+235,S,Jacob Buksti ,19
+236,S,Jan Johansen ,16
+237,S,Jan Petersen ,44
+238,S,Jan Trøjborg ,20
+239,S,Jens Christian Lund ,239
+240,S,Jens Joel ,134
+241,S,Jens Peter Vernersen ,270
+242,S,Jeppe Bruus ,16
+243,S,Jeppe Kofod ,298
+244,S,Jesper Petersen ,109
+245,S,Jette Bergenholz Bautrup ,14
+246,S,John Dyrby Paulsen ,213
+247,S,Julie Rademacher ,98
+248,S,Julie Skovsby ,97
+249,S,Jytte Andersen ,20
+250,S,Jytte Wittrock ,44
+251,S,Kaare Dybvad ,71
+252,S,Karen Hækkerup ,425
+253,S,Karen J. Klint ,134
+254,S,Karin Gaardsted ,32
+255,S,Kasper Roug ,16
+256,S,Kim Mortensen ,106
+257,S,Kirsten Brosbøl ,253
+258,S,Klaus Hækkerup ,117
+259,S,Kristian Thulesen Dahl ,1
+260,S,Lars Aslan Rasmussen ,67
+261,S,Lars Kramer Mikkelsen ,9
+262,S,Lea Wermelin ,96
+263,S,Leif Lahn Jensen ,102
+264,S,Lene Hansen ,184
+265,S,Lene Jensen ,35
+266,S,Lennart Damsbo-Andersen ,132
+267,S,Lisbeth Bech Poulsen ,2
+268,S,Lise von Seelen ,129
+269,S,Liselott Blixt ,1
+270,S,Lissa Mathiasen ,30
+271,S,Lone Møller ,220
+272,S,Lotte Bundsgaard ,23
+273,S,Magnus Heunicke ,287
+274,S,Maja Panduro ,22
+275,S,Malou Lunderød ,1
+276,S,Malte Larsen ,17
+277,S,Margot Torp ,27
+278,S,Mattias Tesfaye ,76
+279,S,Mette Frederiksen ,168
+280,S,Mette Gjerskov ,336
+281,S,Mette Reissmann ,21
+282,S,Mogens Jensen ,405
+283,S,Mogens Lykketoft ,84
+284,S,Morten Bødskov ,205
+285,S,Nick Hækkerup ,59
+286,S,Nicolai Wammen ,8
+287,S,Niels Christian Nielsen ,17
+288,S,Niels Sindal ,25
+289,S,Ole Hækkerup ,151
+290,S,Ole Sohn ,228
+291,S,Ole Stavad ,81
+292,S,Ole Vagn Christensen ,86
+293,S,Orla Hav ,86
+294,S,Peder Sass ,8
+295,S,Per Husted ,42
+296,S,Per Kaalund ,20
+297,S,Pernille Blach Hansen ,67
+298,S,Pernille Rosenkrantz-Theil ,110
+299,S,Peter Hummelgaard Thomsen ,59
+300,S,Pia Gjellerup ,16
+301,S,Poul Andersen ,155
+302,S,Poul Qvist Jørgensen ,1
+303,S,Rasmus Horn Langhoff ,107
+304,S,Rasmus Prehn ,876
+305,S,René Skau Björnsson ,444
+306,S,Ritt Bjerregaard ,20
+307,S,Sandy Brinck ,21
+308,S,Simon Kollerup ,72
+309,S,Sophie Hæstorp Andersen ,167
+310,S,Svend Auken ,2
+311,S,Thomas Adelskov ,156
+312,S,Thomas Horn ,2
+313,S,Thomas Jensen ,160
+314,S,Torben Hansen ,349
+315,S,Trine Bramsen ,46
+316,S,Troels Ravn ,122
+317,S,Vibeke Grave ,102
+318,S,Yildiz Akdogan ,212
+319,SF,Aage Frandsen ,14
+320,SF,Anne Baastrup ,246
+321,SF,Anne Grete Holmsgaard ,142
+322,SF,Anne Valentina Berthelsen ,5
+323,SF,Annette Vilhelmsen ,32
+324,SF,Balder Mørk Andersen ,8
+325,SF,Bilal Inekci ,4
+326,SF,Carl Valentin ,6
+327,SF,Charlotte Broman Mølbæk ,3
+328,SF,Eigil Andersen ,116
+329,SF,Flemming Bonne ,48
+330,SF,Henning Hyllested ,2
+331,SF,Holger K. Nielsen ,463
+332,SF,Jacob Mark ,44
+333,SF,Jane Alrø Sørensen ,2
+334,SF,Jonas Dahl ,170
+335,SF,Jørn Jespersen ,58
+336,SF,Kamal Qureshi ,207
+337,SF,Karina Lorentzen Dehnhardt ,68
+338,SF,Karl H. Bornhøft ,146
+339,SF,Karsten Hønge ,78
+340,SF,Kirsten Normann Andersen ,146
+341,SF,Kristen Touborg ,263
+342,SF,Lene Garsdal ,21
+343,SF,Lisbeth Bech Poulsen ,69
+344,SF,Lotte Thiim Bertelsen ,14
+345,SF,Malene Søgaard-Andersen ,25
+346,SF,Marie Fugl ,1
+347,SF,Meta Fuglsang ,22
+348,SF,Morten Homann ,862
+349,SF,Nanna Westerby ,43
+350,SF,Pernille Frahm ,149
+351,SF,Pernille Vigsø Bagge ,434
+352,SF,Peter Westermann ,6
+353,SF,Pia Olsen Dyhr ,184
+354,SF,Poul Henrik Hedeboe ,137
+355,SF,Sanne Rubinke ,2
+356,SF,Sisse Marie Welling ,7
+357,SF,Steen Gade ,190
+358,SF,Thomas Krog ,129
+359,SF,Tina Boel ,1
+360,SF,Trine Mach ,13
+361,SF,Trine Torp ,101
+362,SF,Villy Søvndal ,496
+363,SF,Özlem Sara Cekic ,24
+364,SIU,Doris Jakobsen ,9
+365,SIU,Lars-Emil Johansen ,12
+366,SP,Edmund Joensen ,24
+367,T,Høgni Hoydal ,81
+368,T,Magni Arge ,54
+369,T,Tórbjørn Jacobsen ,8
+370,UFG,Christian H. Hansen ,165
+371,UFG,Gitte Seeberg ,1
+372,UFG,Louise Frevert ,196
+373,UFG,Peter Brixtofte ,2
+374,UFG,Pia Christmas-Møller ,6
+375,UFG,Simon Emil Ammitzbøll-Bille ,151
+376,V,Anne Honoré Østergaard ,6
+377,V,Anne-Mette Winther Christiansen ,63
+378,V,Annette Vilhelmsen ,1
+379,V,Anni Matthiesen ,108
+380,V,Bertel Haarder ,45
+381,V,Birgitte Josefsen ,6
+382,V,Birthe Rønn Hornbech ,16
+383,V,Britt Bager ,3
+384,V,Britta Schall Holberg ,1
+385,V,Carsten Kissmeyer ,2
+386,V,Charlotte Antonsen ,2
+387,V,Claus Hjort Frederiksen ,50
+388,V,Ellen Trane Nørby ,286
+389,V,Erling Bonnesen ,101
+390,V,Esben Lunde Larsen ,193
+391,V,Ester Larsen ,1
+392,V,Eva Kjer Hansen ,265
+393,V,Eyvind Vesselbo ,27
+394,V,Fatma Øktem ,113
+395,V,Finn Thranum ,4
+396,V,Flemming Damgaard Larsen ,100
+397,V,Gitte Lillelund Bech ,102
+398,V,Hans Andersen ,179
+399,V,Hans Christian Schmidt ,96
+400,V,Hans Christian Thoning ,8
+401,V,Heidi Bank ,10
+402,V,Helge Sander ,4
+403,V,Henrik Høegh ,50
+404,V,Henrik Vestergaard ,1
+405,V,Inger Støjberg ,196
+406,V,Jacob Jensen ,385
+407,V,Jakob Ellemann-Jensen ,63
+408,V,Jakob Engel-Schmidt ,77
+409,V,Jan E. Jørgensen ,187
+410,V,Jane Heitmann ,256
+411,V,Jens Christian Larsen ,1
+412,V,Jens Ejner Christensen ,4
+413,V,Jens Hald ,7
+414,V,Jens Kirk ,6
+415,V,Jens Vibjerg ,15
+416,V,Joan Erlandsen ,10
+417,V,Jørgen Winther ,1
+418,V,Karen Ellemann ,30
+419,V,Karen Jespersen ,28
+420,V,Karsten Lauritzen ,371
+421,V,Karsten Nonbo ,22
+422,V,Kim Andersen ,87
+423,V,Kim Valentin ,2
+424,V,Kristian Jensen ,59
+425,V,Kristian Pihl Lorentzen ,96
+426,V,Lars Christian Lilleholt ,194
+427,V,Lars Løkke Rasmussen ,50
+428,V,Lene Espersen ,1
+429,V,Louise Schack Elholm ,83
+430,V,Lykke Friis ,59
+431,V,Mads Rørvig ,289
+432,V,Marcus Knuth ,1
+433,V,Marie Bjerre ,7
+434,V,Marion Pedersen ,1
+435,V,Marlene Ambo-Rasmussen ,1
+436,V,Martin Geertsen ,178
+437,V,Michael Aastrup Jensen ,362
+438,V,Mike Legarth ,1
+439,V,Morten Dahlin ,11
+440,V,Morten Løkkegaard ,1
+441,V,Peter Christensen ,166
+442,V,Peter Juel-Jensen ,19
+443,V,Peter Skaarup ,2
+444,V,Preben Bang Henriksen ,74
+445,V,Preben Rudiengaard ,7
+446,V,Rikke Hvilshøj ,18
+447,V,Sophie Løhde ,277
+448,V,Stén Knuth ,3
+449,V,Søren Pind ,73
+450,V,Thomas Danielsen ,125
+451,V,Tina Nedergaard ,35
+452,V,Tommy Ahlers ,1
+453,V,Torsten Schack Pedersen ,319
+454,V,Troels Christensen ,2
+455,V,Troels Lund Poulsen ,87
+456,V,Ulla Tørnæs ,96
+457,udpeget af SF,Hanne Agersnap ,72
+458,V,Peter Juel Jensen ,72
+459,KF,Knud Kristensen ,72
+460,KF,Henrik Rasmussen ,72
+461,LA,Simon Emil Ammitzbøll ,72
+462,V,Malou Aamund ,72
+463,V,Per Bisgaard ,72
+464,KF,Helle Sjelle ,72
+465,KF,Steen Konradsen ,72
+466,KF,Charlotte Sahl-Madsen ,72
+467,RV,Erika Lorentsen ,72
+468,KF,Tage Leegaard ,72
+469,V,Peter Madsen ,72
+470,V,Flemming Møller ,72
+471,KF,Henriette Kjær ,72
+472,V,Irene Simonsen ,72
+473,KF,Kurt Scheelsbeck ,72
+474,KF,Rasmus Jarlov  ,72
+475,V,Irene Simonsen (V) ,72
+476,KF,Per Løkken ,72
+477,DF,Bente Kronborg Holst ,72
+478,V,Kasper Krüger ,72
+479,KF,Connie Hedegaard ,72
+480,V,fg. ,72
+481,V,Søren Gade ,72
+482,V,Thor Pedersen ,72
+483,V,Niels Høiby ,72
+484,DF,DF ,72
+485,S,Anna Kirsten Olesen ,72
+486,V,Jens Arne Hedegaard ,72
+487,RV,Nadeem Farooq ,72
+488,SF,Ida Damborg ,72
+489,S,Jacob Bjerregaard ,72
+490,RV,Jeppe Mikkelsen ,72
+491,SF,Thor Möger Pedersen ,72
+492,RV,Hans Vestager ,72
+493,S,Bjarne Corydon ,72
+494,S,Ane Halsboe-Larsen ,72
+495,KF,Mai Henriksen ,72
+496,RV,Marlene B. Lorentzen ,72
+497,RV,Camilla Hersom ,72
+498,RV,Christian Friis Bach ,72
+499,RV,Lone Loklindt ,72
+500,S,Anne Sina ,72
+501,RV,Mie Bergmann ,72
+502,SF,Mette Boye ,72
+503,SF,Karen Touborg ,72
+504,RV,Linda Kristiansen ,72
+505,LA,Kisser Franciska Lehnert ,72
+506,ALT,Pernille Boye Koch ,72
+507,SF,Annika Smith ,72
+508,RV,Sanne Bjørn ,72
+509,S,Peder Christensen ,72
+510,S,Rasmus Lynghøj ,72
+511,ALT,Ulla Sandbæk ,72
+512,V,Jørn Neergaard Larsen ,72
+513,KF,Rasmus Jarlov (KF) ,72
+514,V, fg. ,72
